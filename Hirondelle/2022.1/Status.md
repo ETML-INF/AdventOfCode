@@ -1,2 +1,2 @@
-# Status : on a fait day1, on est en train de essayer un truc de day 2
-# pas teste
+# Status : on a teste day1.2, il marche
+# On a fait le day2.1 et day2.2
